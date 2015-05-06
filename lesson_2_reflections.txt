@@ -21,4 +21,8 @@ Helps identify where in the commit logs branches were formed.
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-A branch that contains the changes from both branches. 
+A branch that contains the changes from both branches.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Git automatically marks the differences between two branches. 
