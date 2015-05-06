@@ -13,4 +13,8 @@ Only use git add on files you would like to add to the staging area and commit.
 
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-Allows experimentation of adding new features while maintaining integrity of master branch. 
+Allows experimentation of adding new features while maintaining integrity of master branch.
+
+5. How do the diagrams help you visualize the branch structure?
+
+Helps identify where in the commit logs branches were formed.
