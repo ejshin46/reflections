@@ -9,4 +9,8 @@ The staging area can be considered a temporary storage for changes the user woul
 
 3. How can you use the staging area to make sure you have one commit per logical change?
 
-Only use git add on files you would like to add to the staging area and commit. 
+Only use git add on files you would like to add to the staging area and commit.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Allows experimentation of adding new features while maintaining integrity of master branch. 
